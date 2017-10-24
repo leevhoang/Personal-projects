@@ -2,8 +2,8 @@
 # 24 May 2017
 # Python Project
 #
-# This program will take a string as input and replace every instance of the word
-# "Trump" with "POTUS45."
+# This program will take a string as input and replace every instance of that word
+# with that of the user's choice.
 # The code I wrote is based off of an implementation on gomputer.wordpress.com.
 # .items() is used since iteritems() is considered deprecated.
 #
