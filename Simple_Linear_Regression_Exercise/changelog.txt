@@ -10,4 +10,4 @@
 
 25 October 2017
 
-	- Finished code and submitted the directory to GitHub.
+	- Finished code, renamed the directory from SLR_Exercise to Simple_Linear_Regression_Exercise, and submitted the directory to GitHub.
