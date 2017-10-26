@@ -1,0 +1,13 @@
+7:42 PM 10/23/2017
+
+1 October 2017
+
+	- Set up the changelog and data preprocessing template.
+
+23 October 2017
+
+	- Added the CSV file and the file containing the machine learning code.
+
+25 October 2017
+
+	- Finished code and submitted the directory to GitHub.
